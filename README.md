@@ -14,6 +14,14 @@
 
 This dataset consists of an approx 50k collection of research articles from PubMed repository. Originally these documents are manually annotated by Biomedical Experts with their MeSH labels and each article are described in terms of 10-15 MeSH labels. In this Dataset we have huge numbers of labels present as a MeSH major, raising the issue of extremely large output space and severe label sparsity issues. To solve this issue, the Dataset has been Processed and mapped to its root as described below.
 
+MeSH Major Covid-19 will be converged to Root category Diseases
 ![image](https://github.com/NerZ98/MultiLabel-Classification-of-PubMed-Articles-/assets/24356496/4db411bf-816e-4d48-87ef-31e8637278bf)
 
+Portion of the MeSH hierarchy, representing its complete path from the root node to the leaf node ‘Bipolar Disorder’.
 ![image](https://github.com/NerZ98/MultiLabel-Classification-of-PubMed-Articles-/assets/24356496/2dc97499-5ee3-4852-b6b3-8ae53cb5ea78)
+
+Training Epochs
+![image](https://pasteboard.co/N9BVqxrtHMKs.png)
+
+F1 Validation vs Number Of Epochs
+![image](![image](https://github.com/NerZ98/MultiLabel-Classification-of-PubMed-Articles-/assets/24356496/64d78581-b469-483f-985a-3708a2842884)
