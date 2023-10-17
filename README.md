@@ -24,4 +24,4 @@ This dataset consists of an approx 50k collection of research articles from PubM
 ![TrainingEpoch](https://github.com/NerZ98/MultiLabel-Classification-of-PubMed-Articles-/assets/24356496/2bc95e7b-35ba-4723-acb0-7beb2b933cec)
 
 # F1 Validation vs Number Of Epochs
-![image](![image](https://github.com/NerZ98/MultiLabel-Classification-of-PubMed-Articles-/assets/24356496/64d78581-b469-483f-985a-3708a2842884)
+![image](https://github.com/NerZ98/MultiLabel-Classification-of-PubMed-Articles-/assets/24356496/64d78581-b469-483f-985a-3708a2842884)
