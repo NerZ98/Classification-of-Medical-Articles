@@ -1,4 +1,4 @@
-# MultiLabel Classification of PubMed Articles 
+# Classification of Articles 
  
 1. The traditional machine learning models give a lot of pain when we do not have sufficient labeled data for the specific task or domain we care about to train a reliable model.
 
